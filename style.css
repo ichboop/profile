@@ -35,7 +35,7 @@ body {
  font-family: 'Source Serif Pro';
  color: rgb(40, 90, 200);
  line-height: 30px;
- text-align: center;
+ text-align: auto;
 }
 
 p {
